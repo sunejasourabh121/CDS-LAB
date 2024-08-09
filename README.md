@@ -171,6 +171,14 @@ int main()
 *Switch Case Statement*: Used in some languages to handle multiple conditions, mimicked in Python using dictionaries.
 
 ## Output:-
-### 1.
+### 1.<img width="640" alt="image" src="https://github.com/user-attachments/assets/775e8857-7f34-4ca8-bf09-0b0de655c2b0">
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/1499ecfb-9a91-4c20-9e68-e4bc10e4c9f0">
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/8654c735-ebf9-41f1-813d-ba8292c59d81">
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/8e52b4f3-017a-4624-b54d-41355779065d">
+
+
+
+
+
 ## Conclusion:-
 Decision-making statements in programming control the flow of execution based on conditions. The if-else statement executes different code blocks depending on whether a condition is true or false, while the nested if else statement allows for multiple conditions to be checked in sequence. The switch statement provides a way to select one of many code blocks to execute based on the value of an expression, ideal for handling discrete values. calculator helps in doing mathematical operations.# CDS-LAB
