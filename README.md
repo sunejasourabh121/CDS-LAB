@@ -52,8 +52,10 @@ Hello World: The program includes the necessary header files and uses the standa
 Sum: These programs take input from the user, perform arithmetic calculations to find the sum of a number.
 
 ## Output -
-1.
-2. 
+1.<img width="339" alt="image" src="https://github.com/user-attachments/assets/d8ca6bf3-fc1e-4506-ad5e-07bda54fb979">
+
+2. <img width="339" alt="image" src="https://github.com/user-attachments/assets/31ccd92b-fdd0-4e67-878c-3c245d2a747b">
+
 
 
 
