@@ -74,7 +74,8 @@ Left Shift (<<):- Shifts bits to the left, filling with 0s.
 Right Shift (>>):- Shifts bits to the right, filling with 0s (logical shift).
 
 ## Output -
-### 1.
+### 1.<img width="640" alt="image" src="https://github.com/user-attachments/assets/7c7458b9-8cef-4bbe-9c53-5cdd2588e318">
+
 
 ## Conclusion -
 Bitwise operators provide low-level data manipulation capabilities. 
