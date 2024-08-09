@@ -60,10 +60,12 @@ The program uses the sizeof operator to determine and display the size of variou
 
 ## Output
 
-### 1. 
+### 1. <img width="339" alt="image" src="https://github.com/user-attachments/assets/34981ea1-d338-4ca0-a15c-c4a9c300600e">
 
 
-### 2.
+
+### 2.<img width="339" alt="image" src="https://github.com/user-attachments/assets/b3b0aade-9984-4769-aab8-000c63c9da67">
+
 
 
 ## Conclusion - 
