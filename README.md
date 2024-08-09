@@ -140,7 +140,20 @@ logical operators: show how to perform logical computations && AND, || OR, ! NOT
 Comparison Operators: Illustrate how to compare values using ==, !=, <, >, <=, and >=.
 
 ## Output -
-### 1. 
+### 1. <img width="640" alt="image" src="https://github.com/user-attachments/assets/a80abdee-a8de-4cfc-8449-15cc8842f3bb">
+
+### 2. <img width="640" alt="image" src="https://github.com/user-attachments/assets/fc8b71e2-b66a-4f54-ae92-cc84ad39bccc">
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/82f48f69-37ca-4065-acc2-0b664a7c4e14">
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/ca771b8e-c6eb-4838-9bda-71fe2e8c2b48">
+
+
+
+
+
+
+
 
 
 ## Conclusion -
