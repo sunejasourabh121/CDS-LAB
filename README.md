@@ -262,26 +262,6 @@ int main() {
     return 0;
 }
 ```
-
-## Outputs :
-### 1.
-![Screenshot 2024-09-04 101935](https://github.com/user-attachments/assets/adcb74e3-ca12-406e-817c-ec3022262abb)
-
-### 2.
-![Screenshot 2024-09-04 102002](https://github.com/user-attachments/assets/13f395d2-b85e-4d28-b179-3893ae3c7e1d)
-
-### 3.
-![Screenshot 2024-09-04 102034](https://github.com/user-attachments/assets/e9eeb7fc-4034-464f-8425-60e62e40c99f)
-
-### 4.
-![Screenshot 2024-09-04 102102](https://github.com/user-attachments/assets/6c32667c-05c6-40c9-a77c-e7280a584139)
-
-### 5. 
-![Screenshot 2024-09-04 102120](https://github.com/user-attachments/assets/3fc64a49-35ce-448d-b71b-960feeb532f9)
-
-### 6.
-![Screenshot 2024-09-04 102133](https://github.com/user-attachments/assets/bf879042-15b0-48ef-b66a-1d1bc6c0d37a)
-
 ## Conclusion :
 -  We learnt about constructors and deconstructors in C++. <br>
 -  We learnt the use case of each of them in C++.  <br>
