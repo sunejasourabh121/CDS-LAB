@@ -43,8 +43,8 @@ A destructor is also a special member function like a constructor.
 ## Codes :
 ### 1.
 ```
-//subham
-//23070123132
+//sourabh
+//23070123129
 //entc-B2
 //experiment-12
 // defining constructor inside the class
@@ -80,8 +80,8 @@ int main(){
 
 ### 2.
 ```
-//subham
-//23070123132
+//sourabh
+//23070123129
 //entc-B2
 //experiment-12
 #include <iostream>
@@ -121,8 +121,8 @@ int main()
 
 ### 3.
 ```
-//subham
-//23070123132
+//sourabh
+//23070123129
 //entc-B2
 // Default Constructors
 #include<iostream>
@@ -160,8 +160,8 @@ int main() {
 
 ### 4.
 ```
-//subham
-//23070123132
+//sourabh
+//23070123129
 //entc-B2
 //experiment-12
 //parameterized constructor
@@ -187,8 +187,8 @@ int main() {
 
 ### 5.
 ```
-//subham
-//23070123132
+//sourabh
+//23070123129
 //entc-B2
 //experiment-12
 #include<iostream>
@@ -234,8 +234,8 @@ int main() {
 
 ### 6.
 ```
-//subham
-//23070123132
+//sourabh
+//23070123129
 //entc-B2
 //experiment-12
 #include<iostream>
