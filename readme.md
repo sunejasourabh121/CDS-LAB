@@ -118,6 +118,24 @@ int main() {
 }
 ~~~
 
+# Outputs
+
+~~~
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/7045191c-67d9-4c2a-8929-4e0b2eee9ff4">
+~~~
+~~~
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/a4934358-2381-46fb-997b-bacaa492bc4f">
+~~~
+~~~
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/1be89175-0c84-4777-8936-35d7427c7fa2">
+~~~
+~~~
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/d19a2c5d-3ed1-4907-9f9d-4a419125938e">
+~~~
+
+
+
+
 
 
 
