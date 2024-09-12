@@ -30,6 +30,7 @@ Recursive case is the way in which the recursive call is present in the function
 
 # codes
 
+~~~
 #include <iostream>
 using namespace std;
 
@@ -52,7 +53,70 @@ int main() {
     return 0;
 }
 
+~~~
+~~~
+#include <iostream>
+using namespace std;
 
+int sum(int n) {
+    if (n == 0) {
+        return 0;
+    } else {
+        return n + sum(n - 1);
+    }
+}
+
+int main() {
+    int number;
+    cout << "Enter number: ";
+    cin >> number;
+
+    int result = sum(number);
+    cout << "Sum = " << result << endl;
+
+    return 0;
+}
+~~~
+~~~
+#include <iostream>
+#include <string>
+using namespace std;
+
+void reverse(char *str) {
+    if (*str) {
+        reverse(str + 1);
+        cout << "%c", *str;
+    }
+}
+
+int main() {
+    char a[50];
+    cout << "Enter a string: ";
+    cin >> a;
+    reverse(a);
+    return 0;
+}
+~~~
+~~~
+#include <iostream>
+#include <string>
+using namespace std;
+
+void reverse(char *str) {
+    if (*str) {
+        reverse(str + 1);
+        cout << "%c", *str;
+    }
+}
+
+int main() {
+    char a[50];
+    cout << "Enter a string: ";
+    cin >> a;
+    reverse(a);
+    return 0;
+}
+~~~
 
 
 
