@@ -1,5 +1,4 @@
-
-
+# exp14
 # Experiment 14
 # Aim
 To study and implement Inheritance
@@ -31,7 +30,7 @@ Inheritance is a core concept in object-oriented programming (OOP) that allows o
 
 ## Access Specifiers in Inheritance
 
-The access specifier used during inheritance determines the accessibility of base class members in the derived class. Here'92s a breakdown:
+The access specifier used during inheritance determines the accessibility of base class members in the derived class. Here’s a breakdown:
 
 | Access Specifier | Base Class Public Members | Base Class Protected Members | Base Class Private Members |
 |------------------|----------------------------|------------------------------|----------------------------|
@@ -98,6 +97,13 @@ int main()
     cout<<u1.uni+" "+u1.dept;
 }
 ~~~
+```
+/tmp/LbQueTWHLb.o
+engineering
+symbiosis:  electronics and telecommunication
+
+=== Code Execution Successful ===
+```
 
 multiple inheritance
 ~~~
@@ -142,6 +148,13 @@ int main()
     cout<<"("<<f2.seater<<")"<<endl<<"MILEAGE: "<<f2.mileage<<endl;
 }
 ~~~
+```
+/tmp/DGZYnVTYlm.o
+black
+ford ecosport
+(6 seater)
+MILEAGE: 6 kmpl
+```
 
 
 multilevel inheritance
@@ -183,7 +196,12 @@ int main() {
     return 0;
 }
 ~~~
-
+```
+/tmp/2FEWBsZPhg.o
+This vehicle runs on petrol.
+This car has 5 doors.
+speed: 200 kmph.
+```
 
 inheritance
 ~~~
@@ -227,4 +245,11 @@ int main()
     scooty.tyres();
     return 0;
 }
-~~~}
+~~~
+```
+/tmp/fTXN1sMpuE.o
+This vehicle runs on petrol.
+This car has 5 doors.
+This vehicle runs on petrol.
+it has 2 tyres.
+```
