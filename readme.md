@@ -68,6 +68,8 @@ The access specifier used during inheritance determines the accessibility of bas
 
 single inheritance
 ~~~
+//sourabh suneja
+//23070123129
 #include <iostream>
 #include <string>
 using namespace std;
@@ -106,6 +108,8 @@ symbiosis:  electronics and telecommunication
 
 multiple inheritance
 ~~~
+//sourabh suneja
+//23070123129
 #include <iostream>
 #include <string>
 using namespace std;
@@ -158,6 +162,8 @@ MILEAGE: 6 kmpl
 
 multilevel inheritance
 ~~~
+//sourabh suneja
+//23070123129
 #include <iostream>
 #include <string>
 using namespace std;
@@ -204,7 +210,8 @@ speed: 200 kmph.
 
 inheritance
 ~~~
-
+//sourabh suneja
+//23070123129
 #include <iostream>
 #include <string>
 using namespace std;
